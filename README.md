@@ -17,7 +17,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am FullStack Developer fron <b> India</b>
+### I am FullStack Developer from <b> India</b>
 
 - 🔭 I’m currently working on my <a href="https://github.com/Anubhavbaranwal/Portfolio"> Portfolio Website </a> 
 - 🌱 I’m currently learning DSA in Java .
