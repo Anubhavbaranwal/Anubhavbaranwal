@@ -32,7 +32,7 @@
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2024 Goals: Contribute to Open Source projects and complete 100 day code challenge
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][(https://linkedin.com/in/anubhavbaranwal)]
+- 📬 How to reach me: [Let's get in touch!](https://linkedin.com/in/anubhavbaranwal)
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
@@ -63,7 +63,7 @@
 # About me
 
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
