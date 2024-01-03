@@ -14,18 +14,10 @@
         </samp>
 </h3>
 
-<p align="center"> 
-  <samp>
 
-    <br>
-    「 I am a full stack web application developer from <b>India</b> 」
-    <br>
-
-  </samp>
-</p>
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Student at JSSATEN And Also Part Of Nibble computer Society
+### I am FullStack Developer fron <b> India</b>
 
 - 🔭 I’m currently working on my <a href="https://github.com/Anubhavbaranwal/Portfolio"> Portfolio Website </a> 
 - 🌱 I’m currently learning DSA in Java .
