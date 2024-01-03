@@ -17,7 +17,7 @@
 <p align="center"> 
   <samp>
 
-
+    <br>
     「 I am a full stack web application developer from <b>India</b> 」
     <br>
 
