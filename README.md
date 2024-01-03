@@ -17,9 +17,8 @@
 <p align="center"> 
   <samp>
 
-    <br>
+
     「 I am a full stack web application developer from <b>India</b> 」
-    <br>
     <br>
 
   </samp>
@@ -33,7 +32,7 @@
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2024 Goals: Contribute to Open Source projects and complete 100 day code challenge
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: [Let's get in touch!][(https://linkedin.com/in/anubhavbaranwal)]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
