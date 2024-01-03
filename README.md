@@ -1,16 +1,4 @@
-<!--
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
 
-<!--
-<p align="center">
-  <a href="https://github.com/Anubhavbaranwal"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <a href="https://komarev.com/ghpvc/?username=Anubhavbaranwal">
@@ -38,12 +26,12 @@
 </p>
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Student at JSSATEN And Also I am Part Of NSC Society
+### I am a Student at JSSATEN And Also Part Of Nibble computer Society
 
-- 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning Data Visualization.
+- 🔭 I’m currently working on my <a href="https://github.com/Anubhavbaranwal/Portfolio"> Portfolio Website </a> 
+- 🌱 I’m currently learning DSA in Java .
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2023 Goals: Contribute to Open Source projects
+- 🥅 2024 Goals: Contribute to Open Source projects and complete 100 day code challenge
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
@@ -52,24 +40,22 @@
 <br>
 
 <p align="center">
- <a href="https://Anubhavbaranwal.com" target="blank">
+ <a href="https://github.com/Anubhavbaranwal/Portfolio"target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Anubhavbaranwal" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://linkedin.com/in/anubhavbaranwal" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anubhavbaranwal"/>
  </a>
  <!-- <a href="https://dev.to/Anubhavbaranwal" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Anubhavbaranwal" />
  </a> -->
- <a href="https://twitter.com/Anubhavbaranwal_dev" target="_blank">
+ <a href="https://twitter.com/Anubhavbaranwa0" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/Anubhavbaranwal_dev" target="_blank">
+ <a href="https://instagram.com/anubhavbaranwal08" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Anubhavbaranwal" />
  </a> 
- <a href="https://facebook.com/Anubhavbaranwal.world" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Anubhavbaranwal"  />
-  </a> 
+
 </p>
 <br />
 
@@ -82,8 +68,8 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: Anubhavbaranwal.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Anubhavbaranwal/Anubhavbaranwal/issues)
+ 📧 &emsp; Reach me anytime: Anubhavbaranwal08@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/Anubhavbaranwal/Anubhavbaranwal/)
 
 </p>
 
