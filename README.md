@@ -33,11 +33,13 @@
     「 I am a full stack web application developer from <b>India</b> 」
     <br>
     <br>
+
   </samp>
 </p>
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Student at JSSATEN  And Also I am Part Of NSC Society
+### I am a Student at JSSATEN And Also I am Part Of NSC Society
+
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning Data Visualization.
 - 👯 I’m looking to collaborate with other Developers :wink:
@@ -110,13 +112,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-
-## Top Open Source -
-
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Anubhavbaranwal&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Anubhavbaranwal/web-projects)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=Anubhavbaranwal&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Anubhavbaranwal/al-folio)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=Anubhavbaranwal&repo=Anubhavbaranwal&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Anubhavbaranwal/Anubhavbaranwal)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=Anubhavbaranwal&repo=Anubhavbaranwal.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Anubhavbaranwal/Anubhavbaranwal.github.io)
 
 <p align="left">
   <a href="https://github.com/Anubhavbaranwal?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
