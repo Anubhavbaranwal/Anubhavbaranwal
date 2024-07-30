@@ -79,12 +79,7 @@
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/Anubhavbaranwal">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Anubhavbaranwal&theme=dark&hide_current_streak=true" alt="GitHub Streak" />
 
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/Anubhavbaranwal">
@@ -92,10 +87,6 @@
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/Anubhavbaranwal"><img alt="anubhav's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Anubhavbaranwal&show_icons=true&count_private=true&theme=github_dark&border_color=black&bg_color=0D1117&title_color=0555b0&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Anubhavbaranwal"><img alt="anubhav's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Anubhavbaranwal&langs_count=8&layout=compact&theme=github_dark&border_color=black&bg_color=0D1117&title_color=0555b0&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+
 
 ![Anubhavbaranwal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anubhavbaranwal&custom_title=Anubhav%20Baranwal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
