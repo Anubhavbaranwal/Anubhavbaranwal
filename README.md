@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on my <a href="https://anubhavbaranwal.github.io/Porfolio/"> Portfolio Website </a> 
 - 🌱 I’m currently learning DSA in Java .
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2024 Goals: Contribute to Open Source projects.
+- 🥅 2025 Goals: Contribute to Open Source projects.
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!](https://linkedin.com/in/anubhavbaranwal)
 - 🧗 I try to: Go beyond and push the bounds
