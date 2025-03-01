@@ -13,7 +13,6 @@
 ### I am FullStack Developer from <b> India</b>
 
 - 🔭 I’m currently working on my <a href="https://anubhavbaranwal.github.io/Porfolio/"> Portfolio Website </a> 
-- 🌱 I’m currently learning DSA in Java .
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2025 Goals: Contribute to Open Source projects.
 - 💬 Ask me about anything, I am happy to help :smile:
